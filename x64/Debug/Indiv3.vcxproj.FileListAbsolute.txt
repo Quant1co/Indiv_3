@@ -1,1 +1,2 @@
 D:\Indiv3\x64\Debug\Indiv3.exe
+D:\Indiv3\Indiv_3\x64\Debug\Indiv3.exe
